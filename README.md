@@ -10,6 +10,7 @@ An interactive Excel dashboard built to analyse retail sales data, track financi
 
 ## Dataset Used:
 This project uses the Retail Sales Dataset from Kaggle. It contains 1,000 transaction records, including detailed fields for customer demographics (age, gender), product categories (electronics, clothing, beauty), purchase quantities, and pricing data, providing a solid foundation for end-to-end sales and customer analysis.
+Dataset : https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
 ## Tools & Techniques Used
 * Data Cleaning & Formatting
